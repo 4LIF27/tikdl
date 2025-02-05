@@ -12,7 +12,7 @@ a tools to Download video tiktok.com using python request s without selenium shi
  rm -rf tikdl
  pip install rich,requests,bs4
  git clone https://github.com/4LIF27/tikdl
- cd Cinsta
+ cd tikdl
  python run.py
 ```
 
